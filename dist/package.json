@@ -1,5 +1,5 @@
 {
-	"name": "ng2-ace-editor",
+	"name": "@supermemo/ng2-ace-editor",
 	"version": "0.3.9",
 	"description": "Ace editor integration with typescript for Angular.",
 	"main": "bundles/ng2-ace-editor.umd.min.js",
@@ -29,7 +29,7 @@
 	"dependencies": {
 		"ace-builds": "^1.4.2",
 		"yarn": "^1.13.0",
-		"brace": "^0.11.1"
+		"@supermemo/brace": "^0.11.1"
 	},
 	"peerDependencies": {
 		"@angular/core": "^7.0.0"
