@@ -1,6 +1,6 @@
 import { EventEmitter, ElementRef, OnInit, OnDestroy, NgZone } from "@angular/core";
-import "brace";
-import "brace/theme/monokai";
+import "@supermemo/brace";
+import "@supermemo/brace/theme/monokai";
 export declare class AceEditorDirective implements OnInit, OnDestroy {
     private zone;
     textChanged: EventEmitter<{}>;

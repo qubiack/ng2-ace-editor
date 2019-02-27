@@ -10,8 +10,8 @@ var __metadata = (this && this.__metadata) || function (k, v) {
 };
 Object.defineProperty(exports, "__esModule", { value: true });
 const core_1 = require("@angular/core");
-require("brace");
-require("brace/theme/monokai");
+require("@supermemo/brace");
+require("@supermemo/brace/theme/monokai");
 let AceEditorDirective = class AceEditorDirective {
     constructor(elementRef, zone) {
         this.zone = zone;

@@ -12,8 +12,8 @@ Object.defineProperty(exports, "__esModule", { value: true });
 var AceEditorComponent_1;
 const core_1 = require("@angular/core");
 const forms_1 = require("@angular/forms");
-require("brace");
-require("brace/theme/monokai");
+require("@supermemo/brace");
+require("@supermemo/brace/theme/monokai");
 let AceEditorComponent = AceEditorComponent_1 = class AceEditorComponent {
     constructor(elementRef, zone) {
         this.zone = zone;

@@ -10,9 +10,9 @@ var __metadata = (this && this.__metadata) || function (k, v) {
 };
 var core_1 = require('@angular/core');
 var forms_1 = require('@angular/forms');
-require('brace');
-require('brace/theme/monokai');
-require('brace/mode/html');
+require('@supermemo/brace');
+require('@supermemo/brace/theme/monokai');
+require('@supermemo/brace/mode/html');
 var AceEditorComponent = (function () {
     function AceEditorComponent(elementRef, zone) {
         this.zone = zone;

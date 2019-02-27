@@ -1,6 +1,6 @@
 {
 	"name": "@supermemo/ng2-ace-editor",
-	"version": "0.3.9",
+	"version": "0.3.18",
 	"description": "Ace editor integration with typescript for Angular.",
 	"main": "bundles/ng2-ace-editor.umd.min.js",
 	"module": "index.js",

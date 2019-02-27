@@ -1,7 +1,7 @@
 import { Component, EventEmitter, Output, ElementRef, Input, forwardRef, OnInit, OnDestroy, NgZone } from "@angular/core";
 import { NG_VALUE_ACCESSOR, ControlValueAccessor } from "@angular/forms";
-import "brace";
-import "brace/theme/monokai";
+import "@supermemo/brace";
+import "@supermemo/brace/theme/monokai";
 
 declare var ace: any;
 

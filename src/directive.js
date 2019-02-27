@@ -9,9 +9,9 @@ var __metadata = (this && this.__metadata) || function (k, v) {
     if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
 };
 var core_1 = require('@angular/core');
-require('brace');
-require('brace/theme/monokai');
-require('brace/mode/html');
+require('@supermemo/brace');
+require('@supermemo/brace/theme/monokai');
+require('@supermemo/brace/mode/html');
 var AceEditorDirective = (function () {
     function AceEditorDirective(elementRef, zone) {
         this.zone = zone;
