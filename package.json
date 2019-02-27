@@ -16,8 +16,9 @@
 		"rollup-plugin-angular": "^0.5.3",
 		"rollup-plugin-typescript2": "^0.19.0",
 		"rxjs": "^6.3.3",
-		"typescript": "^3.2.2",
+		"typescript": "3.2.4",
 		"uglify-js": "^3.4.9",
-		"zone.js": "^0.8.27"
+		"zone.js": "^0.8.27",
+		"ngc": "^1.0.0"
 	}
 }
