@@ -1,6 +1,10 @@
 # ng2-ace-editor
 
 [![npm version](https://badge.fury.io/js/ng2-ace-editor.svg)](https://www.npmjs.com/package/ng2-ace-editor) 
+#
+# SUPPORT FOR SSR (ANGULAR UNIVERSAL)
+Tested with Angular 7.1.0.
+#
 Ace editor integration with typescript for angular 5.  
 **To use Angular 4 install version 0.3.1 (npm i -S ng2-ace-editor@0.3.1).**
 
